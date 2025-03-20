@@ -1,0 +1,5 @@
+n1 = int(input("Insira o 1° número:"))
+n2 = int(input("Insira o 2° número:"))
+soma = print(int(n1)+(n2))
+sub = print(int(n1-n2))
+div = print(int((n1*n2)))
